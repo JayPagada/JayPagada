@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay Pagada</h1>
-<h3 align="center">I work as a Frontend developer.</h3>
+<h3 align="center">I work as a full-stack developer.</h3>
 
 ## 🙋‍♂️ About Me
 
 
 - 🎯 I'm Working on Improving my Problem Solving skills.
 
-- 💬 Ask me about **Javascript, React, React-Hooks, Typescript, Redux.**
+- 💬 Ask me about **Javascript, React, React-Hooks, Typescript, Redux, Node.js, Express.js.**
 
 - 📫 How to reach me **jaypagada11@gmail.com**
 
